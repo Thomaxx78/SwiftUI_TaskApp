@@ -67,3 +67,13 @@ Vous pouvez personnaliser l'application en modifiant les catégories de tâches 
 - Travail (bleu)
 - Personnel (vert)
 - Loisirs (orange)
+
+##Sources
+
+HackingWithSwift : https://www.hackingwithswift.com/
+Documentation SwiftUI : https://developer.apple.com/documentation/swiftui/
+Stack Overflow : https://stackoverflow.com/
+
+
+
+
