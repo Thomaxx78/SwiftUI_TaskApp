@@ -1,4 +1,4 @@
-# Gestionnaire de Tâches SwiftUI
+# Gestionnaire Tâches COMPLET SwiftUI
 
 ## Description du projet
 
