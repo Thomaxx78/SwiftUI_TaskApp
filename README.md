@@ -70,9 +70,9 @@ Vous pouvez personnaliser l'application en modifiant les catégories de tâches 
 
 ##Sources
 
-HackingWithSwift : https://www.hackingwithswift.com/
-Documentation SwiftUI : https://developer.apple.com/documentation/swiftui/
-Stack Overflow : https://stackoverflow.com/
+- HackingWithSwift : https://www.hackingwithswift.com/
+- Documentation SwiftUI : https://developer.apple.com/documentation/swiftui/
+- Stack Overflow : https://stackoverflow.com/
 
 
 
